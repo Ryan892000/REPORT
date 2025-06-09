@@ -1,0 +1,6 @@
+[submodule "AT-01-001-E"]
+	path = AT-01-001-E
+	url = https://github.com/Ryan892000/AT-01-001-E.git
+[submodule "AT-01-002-E"]
+	path = AT-01-002-E
+	url = https://github.com/Ryan892000/AT-01-002-E.git
